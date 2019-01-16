@@ -9,5 +9,5 @@
 ----
 ### Update Class 
  1. Architecture Review and Introduction to OS (Week 1)
-    * [Lecture 1](#)
+    * [Lecture 1](https://github.com/SunatP/ITCS343_OS/tree/master/Week1)
  2. Processes and Threads (Week 2 - 6)
