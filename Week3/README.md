@@ -35,7 +35,7 @@ to the same process.
    - Resources are **not shared** among processes.
    - **Lightweight thread** vs. **Heavyweight process**
 
-![tvsp](https://images.slideplayer.com/14/4402210/slides/slide_13.jpg)
+![tvsp](http://1.bp.blogspot.com/-WOIM5qcr-BI/UTnogFsaf6I/AAAAAAAAAFw/eYZbpVejtHw/s1600/Thread-Process.png)
    - **The different between Threads vs Process** 
 
 ![tvsp2](https://slideplayer.com/slide/6392122/22/images/14/Process+vs.+Thread+Process+Thread+Process+is+considered+heavy+weight.jpg)
