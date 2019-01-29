@@ -93,3 +93,6 @@ reformat the whole book.
 not yet returned from
       - Each thread will call different procedures and have 
 different execution history
+
+## Thread Server Usage 
+![tusage]()
