@@ -1,0 +1,10 @@
+/home/snp/lab2
+fork1
+fork1.c
+fork2
+fork2.c
+out1
+out2
+ this line is parent pid 86534and pid 86536
+ parent process is done 
+Both child processes are finished 
