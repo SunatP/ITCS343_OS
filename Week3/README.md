@@ -1,4 +1,4 @@
-# Multithreaded Programming (Week 3)
+# Multi-Threaded Programming (Week 3)
 
 ## Outline
    - What is Thread?
@@ -13,12 +13,21 @@
 ## Thread
 ![Thread](https://www.javamex.com/tutorials/threads/ThreadDiagram.png)
    - A traditional or ***heavy-weight*** **process** is equal to one process with one thread
-   - **Thread** คือหน่วยประมวลผลที่เล็กที่สุดของ และมันจะโดนจัดระเบียบสังคมโดย **Schecduler** ของ OS และภายใน thread จะประกอบไปด้วย **register** และ **stack**
-   
+
+![Thread2](https://raw.githubusercontent.com/SunatP/ITCS343_OS/master/img/Thread.jpg)
+
+
+![Thread3](https://raw.githubusercontent.com/SunatP/ITCS343_OS/master/img/Thread1.jpg)
+
+
+   - **Thread** คือหน่วยประมวลผลที่เล็กที่สุดของ และมันจะ Manage by  **Schecduler** ของ OS และภายใน thread จะประกอบไปด้วย **register** และ **stack**
+
+
    - Click on the YouTube content to learn about Process and Thread
 
+
   <a href="https://www.youtube.com/embed/O3EyzlZxx3g
-" target="_blank"><img src="https://162787-524467-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/youtube-logo1.jpg" 
+" target="_blank"><img src="https://raw.githubusercontent.com/SunatP/ITCS343_OS/master/img/index.jpg" 
 alt="IMAGE ALT TEXT HERE" width="560" height="315" border="5" /></a>
 
 ## Process
@@ -95,4 +104,4 @@ not yet returned from
 different execution history
 
 ## Thread Server Usage 
-![tusage]()
+![tusage](https://raw.githubusercontent.com/SunatP/ITCS343_OS/master/img/thread2.jpg)
