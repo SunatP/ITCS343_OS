@@ -1,0 +1,7 @@
+language: c
+sudo: false # only for faster builds
+script:
+  - clang -coverage -O0 ./Lab3/thread1.c -o thread1
+  - ./thread1
+  - gcov thread1.c
+  - make && make test
