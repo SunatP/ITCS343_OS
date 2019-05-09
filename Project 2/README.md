@@ -18,7 +18,7 @@ sudo apt install net-tools
 ifconfig
 ```
 จะได้หน้าตาแบบนี้ขึ้นมา <br>
-![abc](asdsdasd)
+![abc](https://raw.githubusercontent.com/SunatP/ITCS343_OS/master/Project%202/img/Screenshot%20from%202019-05-09%2016-02-53.png)
 
 จากนั้นจะติดตั้ง SSH หรือไม่ก็ได้ โดยการติดตั้งจะใช้คำสั่ง
 ```console
