@@ -63,5 +63,6 @@ install:
 
 
 script: 
- - gcc ./Project/main.c -o main 
- - ./Project/main 5 3 1 10
+ - cd ./Project/
+ - gcc main.c -o main 
+ - .main 5 3 1 10
