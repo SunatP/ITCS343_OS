@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/SunatP/ITCS343_OS.svg?branch=master)](https://travis-ci.org/SunatP/ITCS343_OS)
 # ITCS343 Principles of Operating Systems
 
 # Grading Policy
